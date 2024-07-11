@@ -1,0 +1,531 @@
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\obj\Debug\Project----4.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\obj\Debug\Project----4.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\Project----4.dll.config
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\Project----4.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\Project----4.pdb
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\csc.exe
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\csc.exe.config
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\csc.rsp
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\csi.exe
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\csi.exe.config
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\csi.rsp
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.AppContext.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Console.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Net.Http.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\vbc.exe
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\vbc.exe.config
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\vbc.rsp
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\obj\Debug\Project-.A23B7518.Up2Date
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\obj\Debug\Project----4.dll
+C:\Users\Orange\Desktop\Project -- 04\Project----4\Project----4\obj\Debug\Project----4.pdb
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\Project----4.dll.config
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\Project----4.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\Project----4.pdb
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\csc.exe
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\csc.exe.config
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\csc.rsp
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\csi.exe
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\csi.exe.config
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\csi.rsp
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.AppContext.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Console.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Http.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe.config
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\vbc.rsp
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\obj\Debug\Project-.A23B7518.Up2Date
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\obj\Debug\Project----4.dll
+C:\Users\Orange\Desktop\Whole work\Project-04\Project----4\Project----4\obj\Debug\Project----4.pdb
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\Project----4.dll.config
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\Project----4.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\Project----4.pdb
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\csc.exe
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\csc.exe.config
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\csc.rsp
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\csi.exe
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\csi.exe.config
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\csi.rsp
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.AppContext.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Console.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Http.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe.config
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\vbc.rsp
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\obj\Debug\Project-.A23B7518.Up2Date
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\obj\Debug\Project----4.dll
+C:\Users\Orange\Desktop\Whole work\lalal\Project-04\Project----4\Project----4\obj\Debug\Project----4.pdb
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\Project----4.dll.config
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\Project----4.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\Project----4.pdb
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\csc.exe
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\csc.exe.config
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\csc.rsp
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\csi.exe
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\csi.exe.config
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\csi.rsp
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.AppContext.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Console.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Http.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe.config
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\vbc.rsp
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\obj\Debug\Project-.A23B7518.Up2Date
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\obj\Debug\Project----4.dll
+C:\Users\Orange\Desktop\New folder\Project-04\Project----4\Project----4\obj\Debug\Project----4.pdb
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\Project----4.dll.config
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\Project----4.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\Project----4.pdb
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\csc.exe
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\csc.exe.config
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\csc.rsp
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\csi.exe
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\csi.exe.config
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\csi.rsp
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.AppContext.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Console.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Http.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe.config
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\vbc.rsp
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\obj\Debug\Project-.A23B7518.Up2Date
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\obj\Debug\Project----4.dll
+C:\Users\Orange\Desktop\Whole work\yyyy\Project-04\Project----4\Project----4\obj\Debug\Project----4.pdb
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\Project----4.dll.config
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\Project----4.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\Project----4.pdb
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\csc.exe
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\csc.exe.config
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\csc.rsp
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\csi.exe
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\csi.exe.config
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\csi.rsp
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.AppContext.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Console.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Http.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe.config
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\vbc.rsp
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\obj\Debug\Project-.A23B7518.Up2Date
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\obj\Debug\Project----4.dll
+C:\Users\Orange\Desktop\Whole work\last one\Project-04\Project----4\Project----4\obj\Debug\Project----4.pdb
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\Project----4.dll.config
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\Project----4.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\Project----4.pdb
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\csc.exe
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\csc.exe.config
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\csc.rsp
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\csi.exe
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\csi.exe.config
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\csi.rsp
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.AppContext.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Console.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Http.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe.config
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\vbc.rsp
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\obj\Debug\Project-.A23B7518.Up2Date
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\obj\Debug\Project----4.dll
+C:\Users\Orange\Desktop\Project-04\Project-04\Project----4\Project----4\obj\Debug\Project----4.pdb
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\Project----4.dll.config
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\Project----4.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\Project----4.pdb
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\csc.exe
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\csc.exe.config
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\csc.rsp
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\csi.exe
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\csi.exe.config
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\csi.rsp
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.AppContext.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Console.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Http.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\vbc.exe.config
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\vbc.rsp
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\obj\Debug\Project----4.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\obj\Debug\Project-.A23B7518.Up2Date
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\obj\Debug\Project----4.dll
+C:\Users\Orange\Desktop\ProjectTeam-04\Project-04\Project----4\Project----4\obj\Debug\Project----4.pdb
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\Project----4.dll.config
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\Project----4.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\Project----4.pdb
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\csc.exe
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\csc.exe.config
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\csc.rsp
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\csi.exe
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\csi.exe.config
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\csi.rsp
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.AppContext.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Console.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Net.Http.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\vbc.exe
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\vbc.exe.config
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\vbc.rsp
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\obj\Debug\Project----4.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\obj\Debug\Project----4.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\obj\Debug\Project-.A23B7518.Up2Date
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\obj\Debug\Project----4.dll
+C:\Users\Orange\Desktop\ProjectTeam-4\Project----4\Project----4\obj\Debug\Project----4.pdb

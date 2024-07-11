@@ -1,0 +1,20 @@
+User ID: 100
+what do you think: Excellent
+are you okay in this course ??: Excellent
+what do you think about course subject ?: Excellent
+
+User ID: 12
+what do you think: Excellent
+are you okay in this course ??: Excellent
+what do you think about course subject ?: Excellent
+
+User ID: 1004
+what do you think: Good
+are you okay in this course ??: Bad
+what do you think about course subject ?: Bad
+
+User ID: 600
+what do you think: Excellent
+are you okay in this course ??: Excellent
+what do you think about course subject ?: Excellent
+
